@@ -1,0 +1,23 @@
+{
+  "name": "sprint",
+  "version": "1.0.0",
+  "description": "Projeto sprint semana 1 modulo 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/est8r/node-express.git"
+  },
+  "author": "Ester Messias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/est8r/node-express/issues"
+  },
+  "homepage": "https://github.com/est8r/node-express#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
